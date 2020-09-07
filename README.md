@@ -1,3 +1,7 @@
+Some modules can't be listed in the main Repo, otherwise that repo can not be shared in the offficial FoundryVTT Reddit or Discord.
+
+REF: [Bryan's Preferred Modules for FoundryVTT](https://github.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT)
+
 ## Dungeon and Dragons 5e (D&D 5e) Specific
 
 - [Plutonium by 5e Tools](https://wiki.5e.tools/index.php/FoundryTool_Install) ([module.json](https://get.5e.tools/plutonium/module.json)) - What could this be?
